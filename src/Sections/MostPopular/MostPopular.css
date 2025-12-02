@@ -1,0 +1,7 @@
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    gap: 20px;
+    /*border: 2px dashed red;*/
+}
