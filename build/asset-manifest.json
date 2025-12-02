@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mhmadshook-dotcom/test.git/static/css/main.6a145475.css",
-    "main.js": "/mhmadshook-dotcom/test.git/static/js/main.04ebb8c0.js",
+    "main.js": "/mhmadshook-dotcom/test.git/static/js/main.d50434f9.js",
     "static/media/banner-bg.jpg": "/mhmadshook-dotcom/test.git/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-05.fb754b91636cbce130d6.jpg",
     "static/media/popular-06.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-06.193c1358cf48df9af86f.jpg",
@@ -13,10 +13,10 @@
     "static/media/popular-03.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/mhmadshook-dotcom/test.git/index.html",
     "main.6a145475.css.map": "/mhmadshook-dotcom/test.git/static/css/main.6a145475.css.map",
-    "main.04ebb8c0.js.map": "/mhmadshook-dotcom/test.git/static/js/main.04ebb8c0.js.map"
+    "main.d50434f9.js.map": "/mhmadshook-dotcom/test.git/static/js/main.d50434f9.js.map"
   },
   "entrypoints": [
     "static/css/main.6a145475.css",
-    "static/js/main.04ebb8c0.js"
+    "static/js/main.d50434f9.js"
   ]
 }
