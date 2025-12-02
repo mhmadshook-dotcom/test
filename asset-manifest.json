@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mhmadshook-dotcom/test.git/static/css/main.6a145475.css",
+    "main.js": "/mhmadshook-dotcom/test.git/static/js/main.d50434f9.js",
+    "static/media/banner-bg.jpg": "/mhmadshook-dotcom/test.git/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-05.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-05.fb754b91636cbce130d6.jpg",
+    "static/media/popular-06.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/popular-08.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/popular-02.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/popular-07.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-03.jpg": "/mhmadshook-dotcom/test.git/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "/mhmadshook-dotcom/test.git/index.html",
+    "main.6a145475.css.map": "/mhmadshook-dotcom/test.git/static/css/main.6a145475.css.map",
+    "main.d50434f9.js.map": "/mhmadshook-dotcom/test.git/static/js/main.d50434f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a145475.css",
+    "static/js/main.d50434f9.js"
+  ]
+}
